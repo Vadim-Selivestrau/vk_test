@@ -1,0 +1,7 @@
+catboost_info/
+PairLogit/
+QueryRMSE/
+RMSE/
+RMSE_weigths/
+YetiRankPairwise/
+catboost_ranker_model.cbm
