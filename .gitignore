@@ -5,3 +5,4 @@ RMSE/
 RMSE_weigths/
 YetiRankPairwise/
 catboost_ranker_model.cbm
+PairLogitPairwise/
